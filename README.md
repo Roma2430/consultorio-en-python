@@ -58,7 +58,3 @@ Al terminar el registro (cuando se responde "no"), el programa muestra:
 - Extracción: $10.000
 
 El valor final de cada cita corresponde al valor base más el valor del servicio, multiplicado por la cantidad.
-
-## Notas
-
-Es un ejercicio académico, así que el programa tiene algunas limitaciones: no valida que los datos ingresados coincidan con las opciones mostradas (por ejemplo, el tipo de cliente o el servicio), y las restricciones de "solo una limpieza" o "solo un diagnóstico" por cliente muestran un aviso, pero no bloquean el registro.
